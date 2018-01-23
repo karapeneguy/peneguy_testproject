@@ -1,0 +1,45 @@
+.maintext{
+    
+    font-size: 60px;
+  text-align:  left;
+    margin-top: 80px;
+    font-family: 'Bungee Shade', cursive;
+    
+    
+
+    
+}
+
+.decades{
+    background-color: black;
+
+}
+
+
+html{
+    
+    background-image: url(images/pexels-photo-430207.jpeg);
+    background-size: auto 100%;
+
+}
+
+.transparent {
+    background: rgba(76, 175, 80, 0.3); /* Green background with 30% opacity */
+}
+
+
+ .decades{
+  
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Bungee Shade', cursive;
+     font-size: 30px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+    
+}
+
